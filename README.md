@@ -25,3 +25,13 @@ I got my main inspiration from existing streaming decks and macropads such as th
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
 <img width="1358" height="812" alt="image" src="https://github.com/user-attachments/assets/2741f6a4-0185-48a3-8e8e-ee5e7ba3d6db" />  |  <img width="1567" height="857" alt="image" src="https://github.com/user-attachments/assets/00b837b7-921c-4d2c-a7a0-a4b34a564ed9" /> | <img width="1256" height="763" alt="image" src="https://github.com/user-attachments/assets/c3d189e0-2ce4-478e-927f-25686217bd20" />
+
+### Licensing
+This project falls under the MIT License (see LICENSE.md), which I chose because of how much I used all the amazing community projects and help (a ***lot*** with the code) and the support from the overall open-source community. 
+
+This has inspired and made me want to leave my work as open source, hopefully inspiring or helping someone else in the future! 
+
+--- 
+
+### Thanks!!!
+Many many many thanks to everyone at the Hackclub team and AMD for making this work, really amazing help and support to the whole community! 
