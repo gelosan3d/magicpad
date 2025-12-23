@@ -15,8 +15,10 @@ I got my main inspiration from existing streaming decks and macropads such as th
 - 2x EC11 Rotary Encoders
 - 8x Cherry MX Footprint Switches
 - 1x 0.91" OLED Panel
-- 1x MCP23017 IO Expander
-- 3x 4.7kΩ Resistors
+- 1x [MCP23017 IO Expander](https://item.taobao.com/item.htm?id=873700756247) (TaoBao Link)
+- 3x [4.7kΩ Resistors](https://detail.tmall.com/item.htm?abbucket=4&id=855810249338&mi_id=0000HXPAmHcXGjU2EkSrUGMlTOs7axLLb7Gr6H2aFVrdahM) (TMall Link) 
+- 4x [m3 5W4D Heat-set Inserts](https://www.aliexpress.us/item/2255800046543591.html)
+- 4x m3x16mm Screws
 
 #### 3D Print:
   - Top_Case.stl
