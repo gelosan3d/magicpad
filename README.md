@@ -3,6 +3,8 @@
 ### Renders + Workplace Screenshots 
 <img width="1217" height="649" alt="Fusion_Case_Pretty" src="https://github.com/user-attachments/assets/5b4c0e93-fe6f-411a-82c3-daff40549040" />
 <img width="985" height="538" alt="Case_Pretty_1" src="https://github.com/user-attachments/assets/de6af690-df3c-4a81-aaa2-8ebda42546d7" />
+<img width="1285" height="748" alt="image" src="https://github.com/user-attachments/assets/43446c73-5f2b-49d9-8de0-06fbadb8317e" />
+
 
 ---
 
